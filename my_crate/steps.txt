@@ -1,0 +1,5 @@
+use /// to start a comment
+use ``` to start  a code example
+
+The below command will opne the doc in browser
+cargo doc --open
